@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmldatas SYSTEM "xmldata.dtd">
+<xmldatas name="mysql">
+<xmldata name="">
+    <url>jdbc:mysql:///isql</url>
+    <username>root</username>
+    <DriverClassName>com.mysql.jdbc.Driver</DriverClassName>
+    <password></password>
+</xmldata>
+    <tablename name="">
+        <line name=""></line>
+        <line name=""></line>
+        <line name=""></line>
+        <line name=""></line>
+        <line name=""></line>
+        <line name=""></line>
+        <line name=""></line>
+        <line name=""></line>
+    </tablename>
+</xmldatas>

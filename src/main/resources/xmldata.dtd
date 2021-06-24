@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT xmldatas (xmldata*,tablename*)>
+<!ATTLIST xmldata  name CDATA #REQUIRED >
+<!ATTLIST tablename  name CDATA #REQUIRED >
+<!ELEMENT tablename (line*)>
+<!ATTLIST line name CDATA #REQUIRED>
+<!ATTLIST xmldatas  name CDATA  #REQUIRED >
+<!ELEMENT xmldata (url,username,DriverClassName,password)>
+<!ELEMENT url (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT DriverClassName (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT line (#PCDATA)>

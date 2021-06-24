@@ -1,0 +1,27 @@
+13:30:20.846 [main] DEBUG org.xmldata.util.XmlDataUtil - init datasource config!
+13:30:20.861 [main] DEBUG org.xmldata.util.XmlDataUtil - create xmlDataSource=XmlDataSource{url='null', username='root', password='null', DriverClassName='com.mysql.jdbc.Driver', maxlink='null', dtattype='null'}
+13:30:20.861 [main] DEBUG org.xmldata.util.XmlDataUtil - xmlDataSource.getDtattype=mysql
+13:30:20.861 [main] DEBUG org.xmldata.util.XmlDataUtil - XmlDataSource=XmlDataSource{url='jdbc:mysql://localhost:3306/isql', username='root', password='lxhLXH15928659674.', DriverClassName='com.mysql.jdbc.Driver', maxlink='null', dtattype='mysql'}
+13:30:21.175 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - databases links=com.mysql.jdbc.JDBC4Connection@223aa2f7
+13:30:21.187 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - PreparedStatement=com.mysql.jdbc.JDBC4PreparedStatement@d29f28: select*from phone
+13:30:21.187 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - ResultSet=com.mysql.jdbc.JDBC4ResultSet@3514a4c0
+13:30:21.188 [main] DEBUG org.xmldata.service.xmldataesultSethandle.impl.XmlDataResultSetHandleImpl - PreparedStatement------> select*from phone
+13:30:21.188 [main] DEBUG org.xmldata.service.xmldataesultSethandle.impl.XmlDataResultSetHandleImpl - ResultSet---------> [{1=1, 2=红米4, 3=500}, {1=2, 2=红米K40PRO, 3=900}]
+13:31:00.863 [main] DEBUG org.xmldata.util.XmlDataUtil - init datasource config!
+13:31:00.879 [main] DEBUG org.xmldata.util.XmlDataUtil - create xmlDataSource=XmlDataSource{url='null', username='root', password='null', DriverClassName='com.mysql.jdbc.Driver', maxlink='null', dtattype='null'}
+13:31:00.879 [main] DEBUG org.xmldata.util.XmlDataUtil - xmlDataSource.getDtattype=mysql
+13:31:00.880 [main] DEBUG org.xmldata.util.XmlDataUtil - XmlDataSource=XmlDataSource{url='jdbc:mysql://localhost:3306/isql', username='root', password='lxhLXH15928659674.', DriverClassName='com.mysql.jdbc.Driver', maxlink='null', dtattype='mysql'}
+13:31:01.196 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - databases links=com.mysql.jdbc.JDBC4Connection@223aa2f7
+13:31:01.205 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - PreparedStatement=com.mysql.jdbc.JDBC4PreparedStatement@d29f28: select*from phone
+13:31:01.206 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - ResultSet=com.mysql.jdbc.JDBC4ResultSet@3514a4c0
+13:31:01.206 [main] DEBUG org.xmldata.service.xmldataesultSethandle.impl.XmlDataResultSetHandleImpl - PreparedStatement------> select*from phone
+13:31:01.207 [main] DEBUG org.xmldata.service.xmldataesultSethandle.impl.XmlDataResultSetHandleImpl - ResultSet---------> [{1=1, 2=红米4, 3=500}, {1=2, 2=红米K40PRO, 3=900}]
+13:33:55.171 [main] DEBUG org.xmldata.util.XmlDataUtil - init datasource config!
+13:33:55.184 [main] DEBUG org.xmldata.util.XmlDataUtil - create xmlDataSource=XmlDataSource{url='null', username='root', password='null', DriverClassName='com.mysql.jdbc.Driver', maxlink='null', dtattype='null'}
+13:33:55.184 [main] DEBUG org.xmldata.util.XmlDataUtil - xmlDataSource.getDtattype=mysql
+13:33:55.185 [main] DEBUG org.xmldata.util.XmlDataUtil - XmlDataSource=XmlDataSource{url='jdbc:mysql://localhost:3306/isql', username='root', password='lxhLXH15928659674.', DriverClassName='com.mysql.jdbc.Driver', maxlink='null', dtattype='mysql'}
+13:33:55.473 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - databases links=com.mysql.jdbc.JDBC4Connection@223aa2f7
+13:33:55.482 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - PreparedStatement=com.mysql.jdbc.JDBC4PreparedStatement@d29f28: select*from phone
+13:33:55.483 [main] DEBUG org.xmldata.service.impl.XmlDataImpl - ResultSet=com.mysql.jdbc.JDBC4ResultSet@3514a4c0
+13:33:55.483 [main] DEBUG org.xmldata.service.xmldataesultSethandle.impl.XmlDataResultSetHandleImpl - PreparedStatement------> select*from phone
+13:33:55.484 [main] DEBUG org.xmldata.service.xmldataesultSethandle.impl.XmlDataResultSetHandleImpl - ResultSet---------> [{1=1, 2=红米4, 3=500}, {1=2, 2=红米K40PRO, 3=900}]
